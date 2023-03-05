@@ -1,4 +1,4 @@
-public class Main {
+public class Test {
     public static void main(String[] args) {
         // Création des instances
         Voiture v1 = new Voiture("Porsche", "Cayenne", 2007);
